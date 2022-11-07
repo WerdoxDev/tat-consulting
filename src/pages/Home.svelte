@@ -6,7 +6,7 @@
 
 <div class="w-full flex flex-col justify-center items-center sm:gap-y-10 gap-y-3">
   <div class="flex justify-center items-center bg-slate-700 p-5 sm:mt-10 mt-3 rounded-2xl gap-x-10 w-11/12 sm:w-max">
-    <img src="/src/assets/logo.png" class="sm:w-36 w-40" alt="logo" />
+    <img src="logo.png" class="sm:w-36 w-40" alt="logo" />
     <div class="justify-center items-center gap-x-5 hidden sm:flex">
       <div class="w-0.5 bg-slate-600 h-10" />
       <a href="/#home" class="px-2 py-1 rounded-lg text-white border-sky-500 hover:border-b-2 transition-all duration-75 font-bold cursor-pointer">Home</a>
@@ -25,7 +25,7 @@
       </div>
     </div>
     <div class="border-2 border-sky-500 overflow-hidden rounded-3xl h-max">
-      <img src="/src/assets/home.jpg" alt="home" class="sm:w-[30rem] sm:h-[30rem] w-72 h-72 object-cover" />
+      <img src="home.jpg" alt="home" class="sm:w-[30rem] sm:h-[30rem] w-72 h-72 object-cover" />
     </div>
   </div>
   <div class="flex flex-col sm:flex-row-reverse justify-center items-center gap-x-10 gap-y-3 scroll-my-20" id="about">
@@ -39,7 +39,7 @@
       </div>
     </div>
     <div class="border-2 border-sky-500 overflow-hidden rounded-3xl">
-      <img src="/src/assets/about.jpg" alt="about" class="sm:w-[30rem] sm:h-[30rem] w-72 h-72 object-cover" />
+      <img src="about.jpg" alt="about" class="sm:w-[30rem] sm:h-[30rem] w-72 h-72 object-cover" />
     </div>
   </div>
   <div class="h-0.5 w-1/2 bg-slate-600" />
