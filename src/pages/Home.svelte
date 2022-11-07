@@ -73,7 +73,7 @@
         <p class="text-2xl text-white mb-3">Info</p>
         <div class="flex justify-center items-center gap-x-2 bg-slate-600 rounded-lg py-1 px-2 shadow-sm">
           <Icon src={MapPin} theme="solid" class="text-sky-400 w-7 h-7" />
-          <p class="text-slate-200">Jam-e Jam, Shiraz, Iran</p>
+          <p class="text-slate-200">Jam-e Jam, Arizona, USA</p>
         </div>
         <div class="flex justify-center items-center gap-x-2 bg-slate-600 rounded-lg py-1 px-2 shadow-sm">
           <Icon src={Clock} theme="solid" class="text-sky-400 w-7 h-7" />
@@ -81,7 +81,7 @@
         </div>
         <div class="flex justify-center items-center gap-x-2 bg-slate-600 rounded-lg py-1 px-2 shadow-sm">
           <Icon src={Phone} theme="solid" class="text-sky-400 w-7 h-7" />
-          <p class="text-slate-200">+98 939 930 7656</p>
+          <p class="text-slate-200">+98 123 456 7890</p>
         </div>
         <div class="flex justify-center items-center gap-x-3">
           <div class="bg-slate-600 p-1 rounded-lg shadow-sm">
