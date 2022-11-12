@@ -50,7 +50,7 @@
     </div>
   </div>
   <div class="h-0.5 w-1/2 bg-slate-600" />
-  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-5 text-3xl rounded-xl" id="service">Why choose us?</div>
+  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-5 text-3xl rounded-xl" id="service">WHY CHOOSE US?</div>
   <div class="flex flex-wrap justify-center items-center w-full gap-x-5 gap-y-3 sm:gap-y-5">
     <div class="bg-slate-700 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
       <div class="bg-slate-800 rounded-lg p-2 w-max flex justify-center items-center gap-x-3">
