@@ -106,7 +106,7 @@
         </div>
         <div class="flex justify-center items-center gap-x-2 bg-slate-600 rounded-lg py-1 px-2 shadow-sm">
           <Icon src={Phone} theme="solid" class="text-sky-400 w-7 h-7" />
-          <p class="text-slate-200">+1 3522813949</p>
+          <p class="text-slate-200">+1-352-281-3949</p>
         </div>
         <div class="flex justify-center items-center gap-x-2 bg-slate-600 rounded-lg py-1 px-2 shadow-sm">
           <Icon src={AtSymbol} theme="solid" class="text-sky-400 w-7 h-7" />
