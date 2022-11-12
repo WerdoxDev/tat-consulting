@@ -50,9 +50,9 @@
     </div>
   </div>
   <div class="h-0.5 w-1/2 bg-slate-600" />
-  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-5 text-3xl rounded-xl" id="service">WHY CHOOSE US?</div>
+  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-5 text-3xl rounded-xl" id="service">How We Help</div>
   <div class="flex flex-wrap justify-center items-center w-full gap-x-5 gap-y-3 sm:gap-y-5">
-    <div class="bg-slate-700 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
+    <div class="bg-slate-700 border-2 border-lime-500 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
       <div class="bg-slate-800 rounded-lg p-2 w-max flex justify-center items-center gap-x-3">
         <Icon src={ExclamationCircle} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Claim Denials</p>
@@ -63,7 +63,7 @@
         every claim that is submitted on your behalf is paid.
       </p>
     </div>
-    <div class="bg-slate-700 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
+    <div class="bg-slate-700 border-2 border-lime-500 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
       <div class="bg-slate-800 rounded-lg p-2 w-max flex justify-center items-center gap-x-3">
         <Icon src={ShieldCheck} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Protect Your Revenue</p>
@@ -79,7 +79,7 @@
         like an opponent instead of just a third party you do business with
       </p>
     </div>
-    <div class="bg-slate-700 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
+    <div class="bg-slate-700 border-2 border-lime-500 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
       <div class="bg-slate-800 rounded-lg p-2 w-max flex justify-center items-center gap-x-3">
         <Icon src={Banknotes} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Accelerate Cash Flow</p>
