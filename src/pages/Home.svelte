@@ -20,7 +20,7 @@
   <div class="flex flex-col sm:flex-row justify-center items-center gap-x-10 gap-y-3 scroll-my-20" id="home">
     <div class="sm:w-[30rem] sm:h-[30rem] w-72 flex justify-center items-center">
       <div class="border-2 border-lime-500 rounded-3xl sm:p-10 p-5">
-        <p class="font-bold sm:text-4xl text-4xl text-center text-white sm:mb-5 mb-2">Welcome to Tatbilling.com</p>
+        <p class="font-bold sm:text-4xl text-4xl text-center text-white sm:mb-5 mb-2">Welcome to Tatbills</p>
         <p class="text-2xl text-slate-400 text-center font-bold">Where Your Financial Health is Our Top Priority</p>
       </div>
     </div>
