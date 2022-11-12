@@ -14,6 +14,8 @@
       <a href="/#about" class="px-2 py-1 rounded-lg text-white border-sky-500 hover:border-b-2 transition-all duration-75 font-bold cursor-pointer">About</a>
       <div class="w-0.5 bg-slate-600 h-10" />
       <a href="/#service" class="px-2 py-1 rounded-lg text-white border-sky-500 hover:border-b-2 transition-all duration-75 font-bold cursor-pointer">Service</a>
+      <div class="w-0.5 bg-slate-600 h-10" />
+      <a href="/#contact" class="px-2 py-1 rounded-lg text-white border-sky-500 hover:border-b-2 transition-all duration-75 font-bold cursor-pointer">Contact Us</a>
     </div>
   </div>
   <div class="h-0.5 w-1/2 bg-slate-600" />
@@ -92,7 +94,7 @@
       </p>
     </div>
   </div>
-  <div class="bg-slate-700 w-full p-5 flex flex-col justify-center items-center">
+  <div class="bg-slate-700 w-full p-5 flex flex-col justify-center items-center" id="contact">
     <div class="flex flex-col sm:flex-row justify-around items-start w-full h-full gap-x-10 gap-y-5">
       <div class="flex flex-col justify-center items-start gap-y-2">
         <p class="text-2xl text-white mb-3">Info</p>
@@ -140,6 +142,10 @@
         <div class="flex justify-center items-center gap-x-2 cursor-pointer">
           <Icon src={ChevronRight} theme="solid" class="text-white w-5 h-5" />
           <a href="/#service" class="text-slate-200">Service</a>
+        </div>
+        <div class="flex justify-center items-center gap-x-2 cursor-pointer">
+          <Icon src={ChevronRight} theme="solid" class="text-white w-5 h-5" />
+          <a href="/#contact" class="text-slate-200">Contact Us</a>
         </div>
       </div>
     </div>
