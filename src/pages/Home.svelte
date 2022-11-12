@@ -21,7 +21,7 @@
     <div class="sm:w-[30rem] sm:h-[30rem] w-72 flex justify-center items-center">
       <div class="border-2 border-lime-500 rounded-3xl sm:p-10 p-5">
         <p class="font-bold sm:text-4xl text-4xl text-center text-white sm:mb-5 mb-2">Welcome to Tatbills</p>
-        <p class="text-2xl text-slate-400 text-center font-bold">Where Your Financial Health is Our Top Priority</p>
+        <p class="text-2xl text-slate-200 text-center font-bold">Where Your Financial Health is Our <span class="underline text-sky-400">Top</span> Priority</p>
       </div>
     </div>
     <div class="border-2 border-sky-500 overflow-hidden rounded-3xl h-max">
@@ -50,7 +50,7 @@
     </div>
   </div>
   <div class="h-0.5 w-1/2 bg-slate-600" />
-  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-2 text-xl rounded-xl" id="service">Why choose us?</div>
+  <div class="border-2 border-sky-500 text bg-slate-700 text-white font-bold p-5 text-3xl rounded-xl" id="service">Why choose us?</div>
   <div class="flex flex-wrap justify-center items-center w-full gap-x-5 gap-y-3 sm:gap-y-5">
     <div class="bg-slate-700 p-5 rounded-xl flex flex-col justify-center items-center gap-y-2 sm:max-w-sm max-w-xs">
       <div class="bg-slate-800 rounded-lg p-2 w-max flex justify-center items-center gap-x-3">
