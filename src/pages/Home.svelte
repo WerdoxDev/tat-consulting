@@ -32,7 +32,7 @@
     <div class="sm:w-[30rem] sm:h-[30rem] w-72 flex justify-center items-center overflow-hidden rounded-3xl">
       <div class="rounded-3xl sm:p-10 p-5 border-2 border-lime-500 overflow-auto max-h-[480px] scrollbar">
         <p class="font-bold sm:text-4xl text-4xl text-center sm:text-left text-white sm:mb-5 mb-2">About Us!</p>
-        <p class="text-xl text-slate-400 text-center sm:text-left ">
+        <p class="text-xl text-slate-400 text-left ">
           Tatbills is a national U.S. based privately owned and operated Physician Billing Service Group based in Atlanta, Georgia. With years of combined leadership in healthcare, our management and billing team works closely with each client. Increase cash flow and compliancy through continuous
           education sets our organization apart from other billing companies. Unlike no other medical billing company, we offer flexible continuous analytical technique to help you reach your maximizing efficiency, so we can timely file your reimbursement claims. We realized the ever-changing
           complex hurdles to the healthcare landscapes creates much uncertainty for many medical practices and health care organizations. At Tatbills, we tailor our medical billing services based on your organizational needs. Clients have open access to our billing team so claims are timely
@@ -57,7 +57,7 @@
         <Icon src={ExclamationCircle} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Claim Denials</p>
       </div>
-      <p class="text-slate-300 text-xl text-center sm:text-left max-h-80 overflow-y-scroll scrollbar">
+      <p class="text-slate-300 text-xl text-left max-h-80 overflow-y-scroll scrollbar">
         A number of medical practices submit reimbursement claims and for whatever reason their medical claims are denied. Stacks of denials pile up in the office. Often times physicians are unaware of the denials as most physicians entrust their financial health to the practice manager. Medical
         offices get busy and working denied medical claims often does not become a priority. Nothing is done with that encounter to correct any issues that the insurance company is claiming is preventing you from receiving payment from the insurance company. At Tatbills we want to make sure that
         every claim that is submitted on your behalf is paid.
@@ -68,7 +68,7 @@
         <Icon src={ShieldCheck} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Protect Your Revenue</p>
       </div>
-      <p class="text-slate-300 text-xl text-center sm:text-left max-h-80 overflow-y-scroll scrollbar">
+      <p class="text-slate-300 text-xl text-left max-h-80 overflow-y-scroll scrollbar">
         During multiple audits done by Tatbills, we have found that some physician practices generally do nothing with a denied claim and end up “writing off” rejected medical claims. Administrative write-offs involving a non paid claim does nothing for financial health of any medical practice.
         Write off claims are just indicators that a medical practice has room for systematic financial improvement and could benefit from revenue cycle management support. At Tatbills, we specialize in developing a comprehensive action plan correcting the claim denial management processes with a
         solid prevention-focused strategy. With Tatbills, our experienced team makes sure that medical claims are timely filed to increase physician practice’s cash flow. The never ending mandated updates to the ICD-10-CM and classification systems can be difficult at times to interpret while
