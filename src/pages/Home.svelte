@@ -84,7 +84,7 @@
         <Icon src={Banknotes} theme="solid" class="text-sky-500 w-10 h-10" />
         <p class="text-white font-bold text-xl">Accelerate Cash Flow</p>
       </div>
-      <p class="text-slate-300 text-xl text-center sm:text-left max-h-80 overflow-y-scroll scrollbar">
+      <p class="text-slate-300 text-xl text-left max-h-80 overflow-y-scroll scrollbar">
         In order to reduce medical denial claims, it is important for medical practices to proactively work towards developing internal systems required to decrease the likelihood of a claim denial. First, it is important for medical practices to gain a better understanding as to the most common
         reasons why a medical claim would be denied. Understanding the most common reasons for a denial and developing internal safeguards and protocols within the billing process can help identify foreseen problems prior to medical services rendered. At Tatbills, we offer a comprehensive approach
         to EDUCATE. COMMUNICATE. DELIVER.services for physicians of all specialties. Whether you are a single group provider or in a large physician group, we offer either one-on-one training with practice physicians and staff or for the entire group to be more efficient in their day to day
