@@ -16,3 +16,11 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.scrollbar::-webkit-scrollbar {  
+  @apply w-2;
+}
+ 
+.scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-slate-500 rounded-full;
+}
